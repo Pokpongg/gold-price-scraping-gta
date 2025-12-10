@@ -2,6 +2,10 @@
 
 Web scraping script (Jupyter Notebook) for collecting gold prices from GTA (Gold Traders Association, Thailand).
 
+## Purpose
+
+For collecting Thailand’s gold prices automatically for research, dashboarding, or economic analysis.
+
 ## Requirements
 - selenium
 - webdriver-manager (optional but recommended)
@@ -9,15 +13,10 @@ Web scraping script (Jupyter Notebook) for collecting gold prices from GTA (Gold
 
 Install: ```pip install selenium webdriver-manager pandas ```
 
-How to run
+## How to run
 
 Open the Jupyter Notebook
 
 Run the scraping cell
 
 Output file: gold_prices.xlsx
-
-
-Purpose
-
-For collecting Thailand’s gold prices automatically for research, dashboarding, or economic analysis.
