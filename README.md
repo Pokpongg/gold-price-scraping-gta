@@ -24,6 +24,6 @@ Run the scraping cell
 
 ### .py file
 
-type in cmd: ```python gold price web scraping from GTA.py```
+type in cmd: ```python "gold price web scraping from GTA.py"```
 
 Output file: gold_prices.xlsx
