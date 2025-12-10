@@ -13,7 +13,7 @@ For collecting Thailand’s gold prices automatically for research, dashboarding
 - webdriver-manager (optional but recommended)
 - pandas
 
-Install: ```pip install selenium webdriver-manager pandas ```
+Install in cmd: ```pip install selenium webdriver-manager pandas ```
 
 ## How to run
 
