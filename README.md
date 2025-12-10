@@ -17,9 +17,13 @@ For collecting Thailand’s gold prices automatically for research, dashboarding
 Install in cmd: ```pip install selenium webdriver-manager pandas xlsxwriter```
 
 ## How to run
-
+### .ipynb file
 Open the Jupyter Notebook
 
 Run the scraping cell
+
+### .py file
+
+type in cmd: ```python gold price web scraping from GTA.py```
 
 Output file: gold_prices.xlsx
