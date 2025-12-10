@@ -12,8 +12,9 @@ For collecting Thailand’s gold prices automatically for research, dashboarding
 - selenium
 - webdriver-manager (optional but recommended)
 - pandas
+- xlsxwriter
 
-Install in cmd: ```pip install selenium webdriver-manager pandas ```
+Install in cmd: ```pip install selenium webdriver-manager pandas xlsxwriter```
 
 ## How to run
 
