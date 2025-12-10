@@ -7,6 +7,8 @@ Web scraping script (Jupyter Notebook) for collecting gold prices from GTA (Gold
 For collecting Thailand’s gold prices automatically for research, dashboarding, or economic analysis.
 
 ## Requirements
+- Python 3.x
+- Jupyter (notebook, lab, or any that can read .ipynb file)
 - selenium
 - webdriver-manager (optional but recommended)
 - pandas
