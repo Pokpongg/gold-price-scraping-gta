@@ -7,7 +7,7 @@ Web scraping script (Jupyter Notebook) for collecting gold prices from GTA (Gold
 - webdriver-manager (optional but recommended)
 - pandas
 
-Install: ```bash pip install selenium webdriver-manager pandas ```
+Install: ```pip install selenium webdriver-manager pandas ```
 
 How to run
 
